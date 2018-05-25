@@ -1,0 +1,2 @@
+# Scripts
+dd if=<source> of=<destination> status=progress
